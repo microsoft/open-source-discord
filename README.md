@@ -43,6 +43,11 @@ The stage channel for live sessions including Open Chat and [Path To Citus Con P
 
 If you are a Microsoft employee, please feel free to introduce yourself and/or contact an Administrator (e.g. `@as_w`) to be added to the `@Microsoft` role. You will also receive access to the `#private-microsoft` channel.
 
+## More Microsoft Discord Servers
+
+- [Azure AI Discord](https://discord.gg/yrTeVQwpWm)
+- [Microsoft Python Discord](https://aka.ms/python-discord)
+
 ## Code of Conduct
 
 By engaging on this discord server you agree to read and abide by the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/) as well as [Discord's code of conduct](https://discord.com/terms).
