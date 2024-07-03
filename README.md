@@ -34,7 +34,7 @@ Connect with us live and get help with our [Azure Open Source Labs (Azure-Sample
 
 The stage channel for live sessions including Open Chat and [Path To Citus Con Podcast For Developers Who Love Postgres](https://aka.ms/pathtocituscon).
 
-## Upcoming Events
+## Past Events
 
 - June 11-13th 2024: [POSETTE: An Event for Postgres 2024](https://aka.ms/posette)
 - June 19th 2024 @ 10:00am PT: [Path To Citus Con: Episode 16](https://aka.ms/pathtocituscon)
