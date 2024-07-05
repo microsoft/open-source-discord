@@ -30,6 +30,10 @@ Connect with us live and get help with our [Azure Open Source Labs (Azure-Sample
 
 [POSETTE: An Event for Postgres 2024](https://aka.ms/posette). A virtual developer event, June 11-13th 2024.
 
+### #talkingpostgres
+
+Talking Postgres podcast (<https://talkingpostgres.com/>) formerly Path To Citus Con.
+
 ### general-stage
 
 The stage channel for live sessions including Open Chat and [Path To Citus Con Podcast For Developers Who Love Postgres](https://aka.ms/pathtocituscon).
