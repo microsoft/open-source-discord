@@ -46,4 +46,4 @@ All complaints will be reviewed and investigated promptly and fairly. The Code o
 #### Code of Conduct Team:
 - Aaron Wislang, Cloud Advocate at Microsoft
 - Ariana Padilla, Program Manager at Microsoft
-- Claire Giordano, Senior PM on the Postgres team at Microsoft
+- Claire Giordano, Head of Postgres open source community initiatives at Microsoft
