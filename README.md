@@ -2,7 +2,7 @@
 
 ## Join the Microsoft Open Source Discord
 
-Click here to join <https://aka.ms/open-source-discord>
+Click here to join <https://discord.gg/microsoft-open-source> (or <https://aka.ms/open-source-discord>).
 
 ## Channels
 
