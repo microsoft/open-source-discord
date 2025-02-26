@@ -18,6 +18,10 @@ All things Cloud Native & Linux.
 
 All things Postgres at Microsoft, including tools, extensions (e.g. Citus), Azure, & open source.
 
+### #documentdb
+
+DocumentDB is an open-source document database platform. Join us and help build the future of NoSQL. <https://github.com/microsoft/documentdb>
+
 ### #microsoft, #azure
 
 Microsoft discussion, news, jobs, Azure products and platforms, etc.
