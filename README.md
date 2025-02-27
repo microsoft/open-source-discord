@@ -43,8 +43,8 @@ Talking Postgres (<https://talkingpostgres.com/>) is a podcast for developers wh
 The stage channel for live sessions including Open Chat and [Talking Postgres](https://talkingpostgres.com).
 
 ## Upcoming Events
-- February 27, 2025 @ 9:30am PT: DocumentDB: First Week's Insights (general-voice)
-- March 10, 2025 @ 9:30am PT: FerretDB Integration Deep Dive (general-voice)
+- February 27, 2025 @ 9:30am PT: [DocumentDB: First Week's Insights (general-voice)](https://discord.gg/TZXCCpjWv6?event=1344039837313011842)
+- March 10, 2025 @ 9:30am PT: [FerretDB Integration Deep Dive (general-voice)](https://discord.gg/TZXCCpjWv6?event=1344068267764879411)
 - March 12, 2025 @ 10:00am PT: [Why Python developers just use Postgres (E25) with Dawn Wages](https://aka.ms/talkingpostgres-ep25-cal)
 - June 10-12 2025: [POSETTE: An Event for Postgres 2025](https://posetteconf.com)
 
