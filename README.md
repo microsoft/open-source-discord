@@ -46,7 +46,7 @@ The stage channel for live sessions including Open Chat and [Talking Postgres](h
 
 - March 12, 2025 @ 10:00am PT: [Talking Postgres: Why Python developers just use Postgres (E25) with Dawn Wages](https://aka.ms/talkingpostgres-ep25-cal)
 - March 24, 2025 @ 9:30am PT: [DocumentDB: Using PostgreSQL as a Document Database Platform (general-voice)](https://discord.com/events/723347736853741589/1338558423616327811)
-- April 2, 2025 @ 10:00am PT: [Talking Postgres: Open Source Leadership (E26) with Bruce Momjian](https://aka.ms/talkingpostgres-ep25-cal)
+- April 2, 2025 @ 10:00am PT: [Talking Postgres: Open Source Leadership (E26) with Bruce Momjian](https://aka.ms/talkingpostgres-ep26-cal)
 - June 10-12 2025: [POSETTE: An Event for Postgres 2025](https://posetteconf.com)
 
 
