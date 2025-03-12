@@ -43,13 +43,17 @@ Talking Postgres (<https://talkingpostgres.com/>) is a podcast for developers wh
 The stage channel for live sessions including Open Chat and [Talking Postgres](https://talkingpostgres.com).
 
 ## Upcoming Events
-- February 27, 2025 @ 9:30am PT: [DocumentDB: First Week's Insights (general-voice)](https://discord.gg/TZXCCpjWv6?event=1344039837313011842)
-- March 10, 2025 @ 9:30am PT: [FerretDB Integration Deep Dive (general-voice)](https://discord.gg/TZXCCpjWv6?event=1344068267764879411)
-- March 12, 2025 @ 10:00am PT: [Why Python developers just use Postgres (E25) with Dawn Wages](https://aka.ms/talkingpostgres-ep25-cal)
+
+- March 12, 2025 @ 10:00am PT: [Talking Postgres: Why Python developers just use Postgres (E25) with Dawn Wages](https://aka.ms/talkingpostgres-ep25-cal)
+- March 24, 2025 @ 9:30am PT: [DocumentDB: Using PostgreSQL as a Document Database Platform (general-voice)](https://discord.com/events/723347736853741589/1338558423616327811)
+- April 2, 2025 @ 10:00am PT: [Talking Postgres: Open Source Leadership (E26) with Bruce Momjian](https://aka.ms/talkingpostgres-ep25-cal)
 - June 10-12 2025: [POSETTE: An Event for Postgres 2025](https://posetteconf.com)
 
 
 ## Past Events
+DocumentDB: Using PostgreSQL as a Document Database Platform
+- March 10, 2025 @ 9:30am PT: FerretDB Integration Deep Dive (general-voice)
+- February 27, 2025 @ 9:30am PT: DocumentDB: First Week's Insights (general-voice)
 - February 5, 2025: [Talking Postgres: Why mentor Postgres developers with Robert Haas (E24)](https://talkingpostgres.com/episodes/why-mentor-postgres-developers-with-robert-haas)
 - January 15, 2025: [Talking Postgres: How I got started as a developer (& in Postgres) with Daniel Gustafsson (E23)](https://talkingpostgres.com/episodes/how-i-got-started-as-a-developer-in-postgres-with-daniel-gustafsson)
 - December 4, 2025: [Talking Postgres: Leading engineering for Postgres on Azure with Affan Dar (E22)](https://talkingpostgres.com/episodes/leading-engineering-for-postgres-on-azure-with-affan-dar)
