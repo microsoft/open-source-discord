@@ -43,14 +43,15 @@ Talking Postgres (<https://talkingpostgres.com/>) is a podcast for developers wh
 The stage channel for live sessions including Open Chat and [Talking Postgres](https://talkingpostgres.com).
 
 ## Upcoming Events
-- April 23, @ 9:30am PT: [DocumentDB Turns Three (Months)! (public-voice)](https://discord.gg/Bmv9t7qB?event=1338559054154436608)
-- May 7, @ 10:00am PT: [Talking Postgres: How I got started with FerretDB (& why we chose Postgres) with Peter Farkas (E27)](https://aka.ms/talkingpostgres-ep27-cal)
+- May 7, 2025 @ 10:00am PT: [Talking Postgres: How I got started with FerretDB (& why we chose Postgres) with Peter Farkas (E27)](https://aka.ms/talkingpostgres-ep27-cal)
+- May 14, 2025 @ 9:30am PT: [Bringing Vector Search to DocumentDB (public-voice)](https://discord.com/events/723347736853741589/1359638511229079623)
 - June 10-12 2025: [POSETTE: An Event for Postgres 2025](https://posetteconf.com)
 
 ## Past Events
-- April 2, 2025 @ 10:00am PT: [Talking Postgres: Open Source Leadership with Bruce Momjian (E26)](https://talkingpostgres.com/episodes/open-source-leadership-with-bruce-momjian)
+- April 23, 2025 @ 9:30am PT: [DocumentDB Turns Three (Months)! (public-voice)
+- April 2, 2025: [Talking Postgres: Open Source Leadership with Bruce Momjian (E26)](https://talkingpostgres.com/episodes/open-source-leadership-with-bruce-momjian)
 - March 24, 2025 @ 9:30am PT: DocumentDB: Using PostgreSQL as a Document Database Platform (general-voice)
-- March 12, 2025 @ 10:00am PT: [Talking Postgres: Why Python developers just use Postgres (E25) with Dawn Wages](https://talkingpostgres.com/episodes/why-python-developers-just-use-postgres-with-dawn-wages)
+- March 12, 2025: [Talking Postgres: Why Python developers just use Postgres (E25) with Dawn Wages](https://talkingpostgres.com/episodes/why-python-developers-just-use-postgres-with-dawn-wages)
 - March 10, 2025 @ 9:30am PT: FerretDB Integration Deep Dive (general-voice)
 - February 27, 2025 @ 9:30am PT: DocumentDB: First Week's Insights (general-voice)
 - February 5, 2025: [Talking Postgres: Why mentor Postgres developers with Robert Haas (E24)](https://talkingpostgres.com/episodes/why-mentor-postgres-developers-with-robert-haas)
