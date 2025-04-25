@@ -48,7 +48,7 @@ The stage channel for live sessions including Open Chat and [Talking Postgres](h
 - June 10-12 2025: [POSETTE: An Event for Postgres 2025](https://posetteconf.com)
 
 ## Past Events
-- April 23, 2025 @ 9:30am PT: [DocumentDB Turns Three (Months)! (public-voice)
+- April 23, 2025 @ 9:30am PT: DocumentDB Turns Three (Months)! (public-voice)
 - April 2, 2025: [Talking Postgres: Open Source Leadership with Bruce Momjian (E26)](https://talkingpostgres.com/episodes/open-source-leadership-with-bruce-momjian)
 - March 24, 2025 @ 9:30am PT: DocumentDB: Using PostgreSQL as a Document Database Platform (general-voice)
 - March 12, 2025: [Talking Postgres: Why Python developers just use Postgres (E25) with Dawn Wages](https://talkingpostgres.com/episodes/why-python-developers-just-use-postgres-with-dawn-wages)
