@@ -43,11 +43,11 @@ Talking Postgres (<https://talkingpostgres.com/>) is a podcast for developers wh
 The stage channel for live sessions including Open Chat and [Talking Postgres](https://talkingpostgres.com).
 
 ## Upcoming Events
-- May 7, 2025 @ 10:00am PT: [Talking Postgres: How I got started with FerretDB (& why we chose Postgres) with Peter Farkas (E27)](https://aka.ms/talkingpostgres-ep27-cal)
-- May 14, 2025 @ 9:30am PT: [Bringing Vector Search to DocumentDB (public-voice)](https://discord.com/events/723347736853741589/1359638511229079623)
 - June 10-12 2025: [POSETTE: An Event for Postgres 2025](https://posetteconf.com)
 
 ## Past Events
+- May 14, 2025 @ 9:30am PT: Bringing Vector Search to DocumentDB (public-voice)
+- May 7, 2025: [Talking Postgres: How I got started with FerretDB (& why we chose Postgres) with Peter Farkas (E27)](https://talkingpostgres.com/episodes/how-i-got-started-with-ferretdb-why-we-chose-postgres-with-peter-farkas)
 - April 23, 2025 @ 9:30am PT: DocumentDB Turns Three (Months)! (public-voice)
 - April 2, 2025: [Talking Postgres: Open Source Leadership with Bruce Momjian (E26)](https://talkingpostgres.com/episodes/open-source-leadership-with-bruce-momjian)
 - March 24, 2025 @ 9:30am PT: DocumentDB: Using PostgreSQL as a Document Database Platform (general-voice)
