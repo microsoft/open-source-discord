@@ -43,7 +43,9 @@ Talking Postgres (<https://talkingpostgres.com/>) is a podcast for developers wh
 The stage channel for live sessions including Open Chat and [Talking Postgres](https://talkingpostgres.com).
 
 ## Upcoming Events
+
 - June 10-12 2025: [POSETTE: An Event for Postgres 2025](https://posetteconf.com)
+- June 10, 2025 @ 10am PT: [Radius Community Call with Mark Russinovich (CTO, Microsoft Azure) (external)](https://discord.gg/microsoft-open-source?event=1379875632691023894)
 
 ## Past Events
 - May 14, 2025 @ 9:30am PT: Bringing Vector Search to DocumentDB (public-voice)
