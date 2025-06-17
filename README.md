@@ -32,7 +32,7 @@ Connect with us live and get help with our [Azure Open Source Labs (Azure-Sample
 
 ### #posetteconf
 
-[POSETTE: An Event for Postgres](https://posetteconf.com). A virtual developer event. June 11-13th 2024 (last), June 10-12, 2025 (next).
+[POSETTE: An Event for Postgres](https://posetteconf.com). A virtual developer event. June 10-12, 2025.
 
 ### #talkingpostgres
 
@@ -44,11 +44,12 @@ The stage channel for live sessions including Open Chat and [Talking Postgres](h
 
 ## Upcoming Events
 
-- June 10-12 2025: [POSETTE: An Event for Postgres 2025](https://posetteconf.com)
-- June 10, 2025 @ 9:00am PT: [Radius Community Call with Mark Russinovich (CTO, Microsoft Azure) (external)](https://discord.gg/microsoft-open-source?event=1379875632691023894)
 - June 18, 2025 @ 12:00pm PT: [Talking Postgres: 12 years of Postgres Weekly with Peter Cooper (E28)](https://aka.ms/talkingpostgres-ep28-cal)
 
 ## Past Events
+
+- June 10-12 2025: [POSETTE: An Event for Postgres 2025](https://posetteconf.com) ([YouTube Playlist](http://aka.ms/posette-playlist))
+- June 10, 2025 @ 9:00am PT: [Radius Community Call with Mark Russinovich (CTO, Microsoft Azure) (external)](https://discord.gg/microsoft-open-source?event=1379875632691023894)
 - May 14, 2025 @ 9:30am PT: Bringing Vector Search to DocumentDB (public-voice)
 - May 7, 2025: [Talking Postgres: How I got started with FerretDB (& why we chose Postgres) with Peter Farkas (E27)](https://talkingpostgres.com/episodes/how-i-got-started-with-ferretdb-why-we-chose-postgres-with-peter-farkas)
 - April 23, 2025 @ 9:30am PT: DocumentDB Turns Three (Months)! (public-voice)
