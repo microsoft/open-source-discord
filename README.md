@@ -44,10 +44,11 @@ The stage channel for live sessions including Open Chat and [Talking Postgres](h
 
 ## Upcoming Events
 
-- June 18, 2025 @ 12:00pm PT: [Talking Postgres: 12 years of Postgres Weekly with Peter Cooper (E28)](https://aka.ms/talkingpostgres-ep28-cal)
+- July 9, 2025 @ 10:00am PT: [Talking Postgres: How I got started leading database teams (E29) with Shireesh Thota](https://aka.ms/talkingpostgres-ep29-cal)
 
 ## Past Events
 
+- June 18, 2025: [Talking Postgres: 12 years of Postgres Weekly with Peter Cooper (E28)](https://talkingpostgres.com/episodes/12-years-of-postgres-weekly-with-peter-cooper)
 - June 10-12 2025: [POSETTE: An Event for Postgres 2025](https://posetteconf.com) ([YouTube Playlist](http://aka.ms/posette-playlist))
 - June 10, 2025 @ 9:00am PT: [Radius Community Call with Mark Russinovich (CTO, Microsoft Azure) (external)](https://discord.gg/microsoft-open-source?event=1379875632691023894)
 - May 14, 2025 @ 9:30am PT: Bringing Vector Search to DocumentDB (public-voice)
