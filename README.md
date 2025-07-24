@@ -44,13 +44,13 @@ The stage channel for live sessions including Open Chat and [Talking Postgres](h
 
 ## Upcoming Events
 
-- August 6, 2025 @ 10:00am PT: [AI for data engineers with Simon Willison (E30)](https://aka.ms/talkingpostgres-ep30-cal)
-- September 17, 2025 @ 10:00am PT: [What went wrong (and what went right) with AIO with Andres Freund (E31)](https://aka.ms/talkingpostgres-ep31-cal)
-- October 8, 2025 @ 10:00am PT: [The Fundamental Interconnectedness of All Things with Boriss Mejías (E32)](https://aka.ms/talkingpostgres-ep32-cal)
+- August 6, 2025 @ 10:00am PT: [Talking Postgres: AI for data engineers with Simon Willison (E30)](https://aka.ms/talkingpostgres-ep30-cal)
+- September 17, 2025 @ 10:00am PT: [Talking Postgres: What went wrong (and what went right) with AIO with Andres Freund (E31)](https://aka.ms/talkingpostgres-ep31-cal)
+- October 8, 2025 @ 10:00am PT: [Talking Postgres: The Fundamental Interconnectedness of All Things with Boriss Mejías (E32)](https://aka.ms/talkingpostgres-ep32-cal)
 
 ## Past Events
 
-- July 9, 2025: [How I got started leading database teams with Shireesh Thota (E29)](https://talkingpostgres.com/episodes/how-i-got-started-leading-database-teams-with-shireesh-thota)
+- July 9, 2025: [Talking Postgres: How I got started leading database teams with Shireesh Thota (E29)](https://talkingpostgres.com/episodes/how-i-got-started-leading-database-teams-with-shireesh-thota)
 - June 18, 2025: [Talking Postgres: 12 years of Postgres Weekly with Peter Cooper (E28)](https://talkingpostgres.com/episodes/12-years-of-postgres-weekly-with-peter-cooper)
 - June 10-12 2025: [POSETTE: An Event for Postgres 2025](https://posetteconf.com) ([YouTube Playlist](http://aka.ms/posette-playlist))
 - June 10, 2025 @ 9:00am PT: [Radius Community Call with Mark Russinovich (CTO, Microsoft Azure) (external)](https://discord.gg/microsoft-open-source?event=1379875632691023894)
