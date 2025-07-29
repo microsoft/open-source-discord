@@ -2,6 +2,8 @@
 
 ## Join the Microsoft Open Source Discord
 
+[![](https://dcbadge.limes.pink/api/server/microsoft-open-source)](https://discord.gg/microsoft-open-source)
+
 Click to join via <https://discord.gg/microsoft-open-source> or <https://aka.ms/open-source-discord>
 
 ## Channels
