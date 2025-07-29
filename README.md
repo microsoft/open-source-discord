@@ -49,6 +49,7 @@ The stage channel for live sessions including Open Chat and [Talking Postgres](h
 - August 6, 2025 @ 10:00am PT: [Talking Postgres: AI for data engineers with Simon Willison (E30)](https://aka.ms/talkingpostgres-ep30-cal)
 - September 17, 2025 @ 10:00am PT: [Talking Postgres: What went wrong (and what went right) with AIO with Andres Freund (E31)](https://aka.ms/talkingpostgres-ep31-cal)
 - October 8, 2025 @ 10:00am PT: [Talking Postgres: The Fundamental Interconnectedness of All Things with Boriss Mejías (E32)](https://aka.ms/talkingpostgres-ep32-cal)
+- November 5, 2025 @ 10:00am PT: [Talking Postgres: Building a dev experience for Postgres in VS Code with Rob Emanuele (E33)](https://aka.ms/talkingpostgres-ep33-cal)
 
 ## Past Events
 
