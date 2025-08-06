@@ -16,6 +16,10 @@ General discussion across all topics and open source.
 
 All things Cloud Native & Linux.
 
+### #wassette
+
+Wassette: A security-oriented runtime that runs WebAssembly Components via MCP. <https://github.com/microsoft/wassette>
+
 ### #postgres
 
 All things Postgres at Microsoft, including tools, extensions (e.g. Citus), Azure, & open source.
