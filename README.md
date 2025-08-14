@@ -42,7 +42,7 @@ Connect with us live and get help with our [Azure Open Source Labs (Azure-Sample
 
 ### #talkingpostgres
 
-Talking Postgres (<https://talkingpostgres.com/>) is a podcast for developers who love Postgres (formerly Path To Citus Con).
+Talking Postgres is a podcast for developers who love Postgres. <https://talkingpostgres.com>
 
 ### general-stage
 
