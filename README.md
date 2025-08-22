@@ -50,19 +50,19 @@ The stage channel for live sessions including Open Chat and [Talking Postgres](h
 
 ## Upcoming Events
 
-- August 19, 2025 @ 8:00am PT: [AKS Labs: Containerizing and Deploying AI Workloads on AKS with Paul Yu (external)](https://discord.gg/DQHbYF2C?event=1399828358648434789)
 - September 17, 2025 @ 10:00am PT: [Talking Postgres: What went wrong (and what went right) with AIO with Andres Freund (E31)](https://aka.ms/talkingpostgres-ep31-cal)
 - October 8, 2025 @ 10:00am PT: [Talking Postgres: The Fundamental Interconnectedness of All Things with Boriss Mejías (E32)](https://aka.ms/talkingpostgres-ep32-cal)
 - November 5, 2025 @ 10:00am PT: [Talking Postgres: Building a dev experience for Postgres in VS Code with Rob Emanuele (E33)](https://aka.ms/talkingpostgres-ep33-cal)
 
 ## Past Events
 
-- August 6, 2025 @ 10:00am PT: [Talking Postgres: AI for data engineers with Simon Willison (E30)](https://talkingpostgres.com/episodes/ai-for-data-engineers-with-simon-willison)
-- August 5, 2025 @ 8:00am PT: [AKS Labs: Deploy AKS with Terraform & Azure Verified Modules with Paul Yu (external)](https://www.youtube.com/watch?v=ECHtE69fJTQ)
+- August 19, 2025: [AKS Labs: Containerizing and Deploying AI Workloads on AKS with Paul Yu (external)](https://www.youtube.com/live/Il2qcgQUDFQ)
+- August 6, 2025: [Talking Postgres: AI for data engineers with Simon Willison (E30)](https://talkingpostgres.com/episodes/ai-for-data-engineers-with-simon-willison)
+- August 5, 2025: [AKS Labs: Deploy AKS with Terraform & Azure Verified Modules with Paul Yu (external)](https://www.youtube.com/watch?v=ECHtE69fJTQ)
 - July 9, 2025: [Talking Postgres: How I got started leading database teams with Shireesh Thota (E29)](https://talkingpostgres.com/episodes/how-i-got-started-leading-database-teams-with-shireesh-thota)
 - June 18, 2025: [Talking Postgres: 12 years of Postgres Weekly with Peter Cooper (E28)](https://talkingpostgres.com/episodes/12-years-of-postgres-weekly-with-peter-cooper)
 - June 10-12 2025: [POSETTE: An Event for Postgres 2025](https://posetteconf.com) ([YouTube Playlist](http://aka.ms/posette-playlist))
-- June 10, 2025 @ 9:00am PT: [Radius Community Call with Mark Russinovich (CTO, Microsoft Azure) (external)](https://discord.gg/microsoft-open-source?event=1379875632691023894)
+- June 10, 2025: [Radius Community Call with Mark Russinovich (CTO, Microsoft Azure) (external)](https://www.youtube.com/watch?v=MNuoMSIs4Jo)
 - May 14, 2025 @ 9:30am PT: Bringing Vector Search to DocumentDB (public-voice)
 - May 7, 2025: [Talking Postgres: How I got started with FerretDB (& why we chose Postgres) with Peter Farkas (E27)](https://talkingpostgres.com/episodes/how-i-got-started-with-ferretdb-why-we-chose-postgres-with-peter-farkas)
 - April 23, 2025 @ 9:30am PT: DocumentDB Turns Three (Months)! (public-voice)
@@ -88,7 +88,7 @@ If you are a Microsoft employee, please feel free to introduce yourself and/or c
 
 ## More Microsoft Discord Servers
 
-- [Azure AI Discord](https://discord.gg/yrTeVQwpWm)
+- [Azure AI Discord](http://aka.ms/azureaifoundry/discord)
 - [Microsoft Python Discord](https://aka.ms/python-discord)
 
 ## Code of Conduct
