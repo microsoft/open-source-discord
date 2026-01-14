@@ -16,17 +16,17 @@ General discussion across all topics and open source.
 
 All things Cloud Native & Linux.
 
-### #wassette
+### #nosql
 
-Wassette: A security-oriented runtime that runs WebAssembly Components via MCP. <https://github.com/microsoft/wassette>
+Your space for all things NoSQL. Join us and help build the future of NoSQL.
 
 ### #postgres
 
 All things Postgres at Microsoft, including tools, extensions (e.g. Citus), Azure, & open source.
 
-### #documentdb
+### #wassette
 
-DocumentDB is an open-source document database platform. Join us and help build the future of NoSQL. <https://github.com/microsoft/documentdb>
+Wassette: A security-oriented runtime that runs WebAssembly Components via MCP. <https://github.com/microsoft/wassette>
 
 ### #microsoft, #azure
 
