@@ -50,16 +50,14 @@ The stage channel for live sessions including Open Chat and [Talking Postgres](h
 
 ## Upcoming Events
 
-- January 14, 2025 @ 10:00am PT: [Talking Postgres: How I got started with DBtune (& why we chose Postgres) with ​Luigi Nardi (E35)](https://aka.ms/talkingpostgres-ep35-cal)
-
-- February 18, 2025 @ 10:00am PT: [Talking Postgres: Why it's fun to hack on Postgres performance with Tomas Vondra (E36)](https://aka.ms/talkingpostgres-ep36-cal)
+- February 18, 2026 @ 10:00am PT: [Talking Postgres: Why it's fun to hack on Postgres performance with Tomas Vondra (E36)](https://aka.ms/talkingpostgres-ep36-cal)
+- March 18, 2026 @ 10:00am PT: [Talking Postgres: with guest Charles Feddersen (E37)](https://aka.ms/talkingpostgres-ep37-cal)
 
 ## Past Events
 
+- January 14, 2026: [Talking Postgres: How I got started with DBtune (& why we chose Postgres) with ​Luigi Nardi (E35)](https://talkingpostgres.com/episodes/how-i-got-started-with-dbtune-why-we-chose-postgres-with-luigi-nardi)
 - December 10, 2025: [Talking Postgres: What Postgres developers can expect from PGConf.dev with Melanie Plageman (E34)](https://talkingpostgres.com/episodes/what-postgres-developers-can-expect-from-pgconf-dev-with-melanie-plageman)
-
 - November 5, 2025: [Talking Postgres: Building a dev experience for Postgres in VS Code with Rob Emanuele (E33)](https://talkingpostgres.com/episodes/building-a-dev-experience-for-postgres-in-vs-code-with-rob-emanuele)
-
 - October 8, 2025: [Talking Postgres: The Fundamental Interconnectedness of All Things with Boriss Mejías (E32)](https://talkingpostgres.com/episodes/the-fundamental-interconnectedness-of-all-things-with-boriss-mejias)
 - September 17, 2025: [Talking Postgres: What went wrong (and what went right) with AIO with Andres Freund (E31)](https://talkingpostgres.com/episodes/what-went-wrong-what-went-right-with-aio-with-andres-freund)
 - August 19, 2025: [AKS Labs: Containerizing and Deploying AI Workloads on AKS with Paul Yu (external)](https://www.youtube.com/live/Il2qcgQUDFQ)
