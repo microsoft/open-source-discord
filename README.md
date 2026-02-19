@@ -51,7 +51,7 @@ The stage channel for live sessions including Open Chat and [Talking Postgres](h
 ## Upcoming Events
 
 - February 18, 2026 @ 10:00am PT: [Talking Postgres: Why it's fun to hack on Postgres performance with Tomas Vondra (E36)](https://aka.ms/talkingpostgres-ep36-cal)
-- March 18, 2026 @ 10:00am PT: [Talking Postgres: with guest Charles Feddersen (E37)](https://aka.ms/talkingpostgres-ep37-cal)
+- March 18, 2026 @ 10:00am PT: [Talking Postgres: Building Postgres services on Azure with guest Charles Feddersen (E37)](https://aka.ms/talkingpostgres-ep37-cal)
 
 ## Past Events
 
