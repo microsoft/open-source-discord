@@ -50,11 +50,12 @@ The stage channel for live sessions including Open Chat and [Talking Postgres](h
 
 ## Upcoming Events
 
-- February 18, 2026 @ 10:00am PT: [Talking Postgres: Why it's fun to hack on Postgres performance with Tomas Vondra (E36)](https://aka.ms/talkingpostgres-ep36-cal)
-- March 18, 2026 @ 10:00am PT: [Talking Postgres: Building Postgres services on Azure with guest Charles Feddersen (E37)](https://aka.ms/talkingpostgres-ep37-cal)
+- April 8, 2026 @ 10:00am PT: [Talking Postgres: How I went from Oracle to Postgres (with a big NoSQL detour) with Gwen Shapira (E38)](https://aka.ms/talkingpostgres-ep38-cal)
 
 ## Past Events
 
+- March 18, 2026: [Talking Postgres: Building Postgres services on Azure with Charles Feddersen (E37)](https://talkingpostgres.com/episodes/building-postgres-services-on-azure-with-charles-feddersen)
+- February 18, 2026: [Talking Postgres: Why it's fun to hack on Postgres performance with Tomas Vondra (E36)](https://talkingpostgres.com/episodes/why-its-fun-to-hack-on-postgres-performance-with-tomas-vondra)
 - January 14, 2026: [Talking Postgres: How I got started with DBtune (& why we chose Postgres) with ​Luigi Nardi (E35)](https://talkingpostgres.com/episodes/how-i-got-started-with-dbtune-why-we-chose-postgres-with-luigi-nardi)
 - December 10, 2025: [Talking Postgres: What Postgres developers can expect from PGConf.dev with Melanie Plageman (E34)](https://talkingpostgres.com/episodes/what-postgres-developers-can-expect-from-pgconf-dev-with-melanie-plageman)
 - November 5, 2025: [Talking Postgres: Building a dev experience for Postgres in VS Code with Rob Emanuele (E33)](https://talkingpostgres.com/episodes/building-a-dev-experience-for-postgres-in-vs-code-with-rob-emanuele)
