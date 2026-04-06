@@ -51,6 +51,7 @@ The stage channel for live sessions including Open Chat and [Talking Postgres](h
 ## Upcoming Events
 
 - April 8, 2026 @ 10:00am PT: [Talking Postgres: How I went from Oracle to Postgres (with a big NoSQL detour) with Gwen Shapira (E38)](https://aka.ms/talkingpostgres-ep38-cal)
+- May 6, 2026 @ 10:00am PT: [Talking Postgres: From MemSQL to HorizonDB, an engineer's journey with Adam Prout (E39)](https://aka.ms/talkingpostgres-ep39-cal)
 
 ## Past Events
 
