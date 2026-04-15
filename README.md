@@ -50,11 +50,11 @@ The stage channel for live sessions including Open Chat and [Talking Postgres](h
 
 ## Upcoming Events
 
-- April 8, 2026 @ 10:00am PT: [Talking Postgres: How I went from Oracle to Postgres (with a big NoSQL detour) with Gwen Shapira (E38)](https://aka.ms/talkingpostgres-ep38-cal)
 - May 6, 2026 @ 10:00am PT: [Talking Postgres: From MemSQL to HorizonDB, an engineer's journey with Adam Prout (E39)](https://aka.ms/talkingpostgres-ep39-cal)
 
 ## Past Events
 
+- April 8, 2026: [Talking Postgres: How I went from Oracle to Postgres (with a big NoSQL detour) with Gwen Shapira (E38)](https://talkingpostgres.com/episodes/how-i-went-from-oracle-to-postgres-with-a-big-nosql-detour-with-gwen-shapira)
 - March 18, 2026: [Talking Postgres: Building Postgres services on Azure with Charles Feddersen (E37)](https://talkingpostgres.com/episodes/building-postgres-services-on-azure-with-charles-feddersen)
 - February 18, 2026: [Talking Postgres: Why it's fun to hack on Postgres performance with Tomas Vondra (E36)](https://talkingpostgres.com/episodes/why-its-fun-to-hack-on-postgres-performance-with-tomas-vondra)
 - January 14, 2026: [Talking Postgres: How I got started with DBtune (& why we chose Postgres) with ​Luigi Nardi (E35)](https://talkingpostgres.com/episodes/how-i-got-started-with-dbtune-why-we-chose-postgres-with-luigi-nardi)
