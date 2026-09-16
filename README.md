@@ -50,7 +50,7 @@ The stage channel for live sessions including Open Chat and [Talking Postgres](h
 
 ## Upcoming Events
 
-- September 16, 2026 @ 10:00am PT: [Talking Postgres: with guest Peter Eisentraut (E43)](https://discord.gg/microsoft-open-source)
+- September 16, 2026 @ 10:00am PT: [Talking Postgres: 25 years of contributing to Postgres with Peter Eisentraut (E43)](https://discord.gg/microsoft-open-source)
 
 ## Past Events
 
