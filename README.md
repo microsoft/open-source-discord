@@ -50,10 +50,10 @@ The stage channel for live sessions including Open Chat and [Talking Postgres](h
 
 ## Upcoming Events
 
-- October 14, 2026 @ 11:00am PT: [Talking Postgres: From Oracle DBA to Postgres contributor with Karen Jex (E44)](https://aka.ms/talkingpostgres-ep44-cal)
 
 ## Past Events
 
+- October 14, 2026: [Talking Postgres: From Oracle DBA to Postgres contributor with Karen Jex (E44)](https://talkingpostgres.com/episodes/from-oracle-dba-to-postgres-contributor-with-karen-jex)
 - September 16, 2026: [Talking Postgres: 25 years of contributing to Postgres with Peter Eisentraut (E43)](https://talkingpostgres.com/episodes/25-years-of-contributing-to-postgres-with-peter-eisentraut)
 - August 12, 2026: [Talking Postgres: How AI is changing software development with Simon Willison (E42)](https://talkingpostgres.com/episodes/how-ai-is-changing-software-development-with-simon-willison)
 - July 14, 2026: [Talking Postgres: Working on Postgres after 13 years on SQL Server with Panagiotis "Panos" Antonopoulos (E41)](https://talkingpostgres.com/episodes/working-on-postgres-after-13-years-on-sql-server-with-panagiotis-antonopoulos)
