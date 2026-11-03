@@ -50,6 +50,7 @@ The stage channel for live sessions including Open Chat and [Talking Postgres](h
 
 ## Upcoming Events
 
+- November 3, 2026 @ 10:00am PT: [Talking Postgres: How I got started in Postgres with Magnus Hagander (E45)](https://discord.com/events/723347736853741589/1559688243010740285)
 
 ## Past Events
 
